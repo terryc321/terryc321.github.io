@@ -29,7 +29,6 @@ Using Emacs server + Emacs clients + Cider + Paredit + Ivy + Company + Figwheel 
 
 
   <a href="/tic-tac-toe/">Tic Tac Toe</a> <br/>
-  <a href="/todo-app/">To Do App</a> <br/>
   <a href="/clock-app/">Clock App</a> <br/>  
   <a href="/temperature-app/">Temperature conversion app</a> <br/>
   <a href="/breakout2/resources/public/index.html">canvas breakout clone</a> <br/>
@@ -47,10 +46,20 @@ Using Emacs server + Emacs clients + Cider + Paredit + Ivy + Company + Figwheel 
 - [x] refactor
 
 
-# Tic Tac Toe :  simple svg 3 by 3 grid change viewport .(n.b Timothy Pratley on youtube with Clojurescript)
+# Tic Tac Toe 
+
+[tic-tac-toe app](/tic-tac-toe/)
+
+![tic-tac-toe screenshot](/images/tic-tac-toe-app.png)
+
+- [x] simple svg 3 by 3 grid viewport
+- [x] winner
+- [ ] see Timothy Pratley on youtube with Clojurescript
 
 # Temperature App : change fahrenheit affects celsius reading.  change celsius affects fahrenheit reading.
- 
+
+
+
 # SVG Clock : uses setInterval every half second , uses Date object so time is actually accurate.
  it works as a clock.
  
