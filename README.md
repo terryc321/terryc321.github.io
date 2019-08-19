@@ -26,9 +26,26 @@ Using Emacs server + Emacs clients + Cider + Paredit + Ivy + Company + Figwheel 
 ------------------------------------------------------------------------
 * Published some really rough work onto GitHub : terryc321.github.io  *
 ------------------------------------------------------------------------
- 
-# To Do App : simple to do application , add new items , delete , mark as done.
- this has been refactored once.
+
+
+  <a href="/tic-tac-toe/">Tic Tac Toe</a> <br/>
+  <a href="/todo-app/">To Do App</a> <br/>
+  <a href="/clock-app/">Clock App</a> <br/>  
+  <a href="/temperature-app/">Temperature conversion app</a> <br/>
+  <a href="/breakout2/resources/public/index.html">canvas breakout clone</a> <br/>
+  
+
+## To Do App
+
+[todo app](/todo-app/)
+
+![todo-app screenshot](/images/todo-app.png)
+
+- [x] add new items
+- [x] delete items
+- [x] mark items done
+- [x] refactor
+
 
 # Tic Tac Toe :  simple svg 3 by 3 grid change viewport .(n.b Timothy Pratley on youtube with Clojurescript)
 
