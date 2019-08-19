@@ -55,7 +55,7 @@ location : Based in Merseyside, UK
 
 # Breakout2
 
-[breakout2 app](/breakout2/resources/public/index.html/)
+[breakout2 app](/breakout2/resources/public/index.html)
 
 ![breakout2 screenshot 1](/images/breakout2-app-1.png)
 ![breakout2 screenshot 2](/images/breakout2-app-2.png)
